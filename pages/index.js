@@ -1,5 +1,5 @@
 function Home() {
-    return <h1> Se você recebeu esse Link, é pq o Renan Raposo te ama!</h1>
+    return <h1> Piriri, pororó.. Se você ama Renan Raposo, dê uma risadinha!</h1>
 }
 
 export default Home;
